@@ -1,0 +1,15 @@
+C:\Users\rer99\source\repos\testTask\testTask.Application\bin\Debug\net8.0\testTask.Application.deps.json
+C:\Users\rer99\source\repos\testTask\testTask.Application\bin\Debug\net8.0\testTask.Application.dll
+C:\Users\rer99\source\repos\testTask\testTask.Application\bin\Debug\net8.0\testTask.Application.pdb
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.Application.AssemblyInfoInputs.cache
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.Application.AssemblyInfo.cs
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.Application.dll
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\refint\testTask.Application.dll
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.Application.pdb
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\ref\testTask.Application.dll
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.Application.csproj.AssemblyReference.cache
+C:\Users\rer99\source\repos\testTask\testTask.Application\bin\Debug\net8.0\testTask.Core.dll
+C:\Users\rer99\source\repos\testTask\testTask.Application\bin\Debug\net8.0\testTask.Core.pdb
+C:\Users\rer99\source\repos\testTask\testTask.Application\obj\Debug\net8.0\testTask.D9617C15.Up2Date

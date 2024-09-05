@@ -1,0 +1,17 @@
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\bin\Debug\net8.0\testTask.DataAccess.deps.json
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\bin\Debug\net8.0\testTask.DataAccess.runtimeconfig.json
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\bin\Debug\net8.0\testTask.DataAccess.dll
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\bin\Debug\net8.0\testTask.DataAccess.pdb
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.csproj.AssemblyReference.cache
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.AssemblyInfoInputs.cache
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.AssemblyInfo.cs
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.dll
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\refint\testTask.DataAccess.dll
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.pdb
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.DataAccess.genruntimeconfig.cache
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\ref\testTask.DataAccess.dll
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\bin\Debug\net8.0\testTask.Core.dll
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\bin\Debug\net8.0\testTask.Core.pdb
+C:\Users\rer99\source\repos\testTask\testTask.DataAccess\obj\Debug\net8.0\testTask.76A9E9BE.Up2Date

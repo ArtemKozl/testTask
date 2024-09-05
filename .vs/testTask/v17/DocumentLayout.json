@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rer99\\source\\repos\\testTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask\\contracts\\doctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|solutionrelative:testtask\\contracts\\doctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|solutionrelative:testtask\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask\\contracts\\patientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|solutionrelative:testtask\\contracts\\patientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786F3DE-6F68-43A1-BDCF-BC1C713CF776}|testTask.Application\\testTask.Application.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786F3DE-6F68-43A1-BDCF-BC1C713CF776}|testTask.Application\\testTask.Application.csproj|solutionrelative:testtask.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\repositories\\patiensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\repositories\\patiensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\entities\\patiensentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\entities\\patiensentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\patiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\patiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|solutionrelative:testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|solutionrelative:testtask\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\repositories\\doctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\repositories\\doctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786F3DE-6F68-43A1-BDCF-BC1C713CF776}|testTask.Application\\testTask.Application.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786F3DE-6F68-43A1-BDCF-BC1C713CF776}|testTask.Application\\testTask.Application.csproj|solutionrelative:testtask.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\patiensforoutputlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\patiensforoutputlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\doctorsforoutputlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\doctorsforoutputlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\repositories\\officesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\repositories\\officesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD214EE6-BE3D-425D-9612-68E2B705650E}|testTask.infrastructure\\testTask.infrastructure.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.infrastructure\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD214EE6-BE3D-425D-9612-68E2B705650E}|testTask.infrastructure\\testTask.infrastructure.csproj|solutionrelative:testtask.infrastructure\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\repositories\\specializationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\repositories\\specializationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\repositories\\districtsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\repositories\\districtsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\testtaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\testtaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\entities\\distrctsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\entities\\distrctsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|solutionrelative:testtask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1DBAEE1-A83B-4BEC-9EA0-57110B811B88}|testTask\\testTask.csproj|solutionrelative:testtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\entities\\doctorsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\entities\\doctorsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\abstractions\\ipatiensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\abstractions\\ipatiensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\abstractions\\idoctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\abstractions\\idoctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\entities\\officesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\entities\\officesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\offices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\offices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\patientinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\patientinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\districts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\districts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.core\\models\\specializations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0861D36A-1840-4EC8-964B-B9329D3CE5D1}|testTask.Core\\testTask.Core.csproj|solutionrelative:testtask.core\\models\\specializations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\testtask\\testtask.dataaccess\\entities\\specializationsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AA5908-5176-421F-8B9E-9B724544F7FA}|testTask.DataAccess\\testTask.DataAccess.csproj|solutionrelative:testtask.dataaccess\\entities\\specializationsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patiens.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Patiens.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\Patiens.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Patiens.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\Patiens.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:01:44.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Contracts\\PatientsRequest.cs",
+              "RelativeDocumentMoniker": "testTask\\Contracts\\PatientsRequest.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Contracts\\PatientsRequest.cs",
+              "RelativeToolTip": "testTask\\Contracts\\PatientsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:50:13.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatiensForOutputList.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\PatiensForOutputList.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\PatiensForOutputList.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\PatiensForOutputList.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\PatiensForOutputList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:20:44.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "testTask\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "testTask\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawBwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:13:48.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Abstractions\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Abstractions\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Abstractions\\IDoctorService.cs",
+              "RelativeToolTip": "testTask.Core\\Abstractions\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:11:46.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorsForOutputList.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\DoctorsForOutputList.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\DoctorsForOutputList.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\DoctorsForOutputList.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\DoctorsForOutputList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:50:49.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "testTask\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "testTask\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T16:37:07.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.infrastructure\\MapperProfiles.cs",
+              "RelativeDocumentMoniker": "testTask.infrastructure\\MapperProfiles.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.infrastructure\\MapperProfiles.cs",
+              "RelativeToolTip": "testTask.infrastructure\\MapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:29:21.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Contracts\\DoctorRequest.cs",
+              "RelativeDocumentMoniker": "testTask\\Contracts\\DoctorRequest.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Contracts\\DoctorRequest.cs",
+              "RelativeToolTip": "testTask\\Contracts\\DoctorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:59:16.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "testTask\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "testTask\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:55:04.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatiensRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\PatiensRepository.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Repositories\\PatiensRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\PatiensRepository.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Repositories\\PatiensRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:58:10.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPatiensRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Abstractions\\IPatiensRepository.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Abstractions\\IPatiensRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Abstractions\\IPatiensRepository.cs",
+              "RelativeToolTip": "testTask.Core\\Abstractions\\IPatiensRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:55:43.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDoctorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Abstractions\\IDoctorsRepository.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Abstractions\\IDoctorsRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Abstractions\\IDoctorsRepository.cs",
+              "RelativeToolTip": "testTask.Core\\Abstractions\\IDoctorsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:55:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PatientInput.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\PatientInput.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\PatientInput.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\PatientInput.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\PatientInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:06:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Application\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "testTask.Application\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Application\\Services\\PatientService.cs",
+              "RelativeToolTip": "testTask.Application\\Services\\PatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:07:34.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Application\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "testTask.Application\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Application\\Services\\DoctorService.cs",
+              "RelativeToolTip": "testTask.Application\\Services\\DoctorService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:07:18.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpecializationsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\SpecializationsRepository.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Repositories\\SpecializationsRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\SpecializationsRepository.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Repositories\\SpecializationsRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:25:46.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OfficesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\OfficesRepository.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Repositories\\OfficesRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\OfficesRepository.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Repositories\\OfficesRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:25:09.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DistrictsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\DistrictsRepository.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Repositories\\DistrictsRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\DistrictsRepository.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Repositories\\DistrictsRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:24:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\appsettings.json",
+              "RelativeDocumentMoniker": "testTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\appsettings.json",
+              "RelativeToolTip": "testTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T11:12:35.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Program.cs",
+              "RelativeDocumentMoniker": "testTask\\Program.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask\\Program.cs",
+              "RelativeToolTip": "testTask\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAewCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:53:40.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Specializations.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Specializations.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\Specializations.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Specializations.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\Specializations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:30:20.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Offices.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Offices.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\Offices.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Offices.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\Offices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:30:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\Doctors.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Doctors.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\Doctors.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:29:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Districts.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Districts.cs",
+              "RelativeDocumentMoniker": "testTask.Core\\Models\\Districts.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.Core\\Models\\Districts.cs",
+              "RelativeToolTip": "testTask.Core\\Models\\Districts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:29:33.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\DoctorsRepository.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Repositories\\DoctorsRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Repositories\\DoctorsRepository.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Repositories\\DoctorsRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:28:16.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SpecializationsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\SpecializationsEntity.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Entities\\SpecializationsEntity.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\SpecializationsEntity.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Entities\\SpecializationsEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:49:29.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatiensEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\PatiensEntity.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Entities\\PatiensEntity.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\PatiensEntity.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Entities\\PatiensEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:49:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OfficesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\OfficesEntity.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Entities\\OfficesEntity.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\OfficesEntity.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Entities\\OfficesEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:48:56.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoctorsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\DoctorsEntity.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Entities\\DoctorsEntity.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\DoctorsEntity.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Entities\\DoctorsEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:48:42.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DistrctsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\DistrctsEntity.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\Entities\\DistrctsEntity.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\Entities\\DistrctsEntity.cs",
+              "RelativeToolTip": "testTask.DataAccess\\Entities\\DistrctsEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:48:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "testTaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\testTaskDbContext.cs",
+              "RelativeDocumentMoniker": "testTask.DataAccess\\testTaskDbContext.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\testTask\\testTask.DataAccess\\testTaskDbContext.cs",
+              "RelativeToolTip": "testTask.DataAccess\\testTaskDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:22:39.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

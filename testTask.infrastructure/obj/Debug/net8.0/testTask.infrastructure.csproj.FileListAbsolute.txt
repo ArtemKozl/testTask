@@ -1,0 +1,17 @@
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\bin\Debug\net8.0\testTask.infrastructure.deps.json
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\bin\Debug\net8.0\testTask.infrastructure.dll
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\bin\Debug\net8.0\testTask.infrastructure.pdb
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\bin\Debug\net8.0\testTask.Core.dll
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\bin\Debug\net8.0\testTask.DataAccess.dll
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\bin\Debug\net8.0\testTask.Core.pdb
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\bin\Debug\net8.0\testTask.DataAccess.pdb
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.infrastructure.csproj.AssemblyReference.cache
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.infrastructure.AssemblyInfoInputs.cache
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.infrastructure.AssemblyInfo.cs
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.654A45C1.Up2Date
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.infrastructure.dll
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\refint\testTask.infrastructure.dll
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\testTask.infrastructure.pdb
+C:\Users\rer99\source\repos\testTask\testTask.infrastructure\obj\Debug\net8.0\ref\testTask.infrastructure.dll
